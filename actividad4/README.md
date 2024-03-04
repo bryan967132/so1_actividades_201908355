@@ -1,0 +1,1 @@
+Chat Básico utilizando Named Pipes y bash en Linux
